@@ -53,6 +53,4 @@ To run Attendo locally, follow these steps:
 The application is deployed and accessible at [Attendo Deploy](https://atendo-deploy.onrender.com).
 
 
-## Contact
-
-For questions or feedback, feel free to contact us at [rahulagniotri4444@gmail.com](mailto:rahulagniotri4444@gmail.com), [dhruvilpatel2002@gmail.com](mailto:dhruvilpatel2002@gmail.com).
+=
